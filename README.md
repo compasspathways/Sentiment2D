@@ -11,7 +11,7 @@ A package for computing the two-dimensional sentiment scores and a Jupyter noteb
 </div>
 
 ## Contents
-The code and data to replicate the analysis described in our paper is in the "integration_nlp_paper". The sentiment model code is in "sentiment2d" and an example that demonstrates the use of this model is in a notebook in "examples". Below is a plot of the 2D sentiment scores for the utterances in the Carl Rogers session with Gloria (see [the notebook](./examples/compute_sentiment.ipynb) for details).
+The code and data to replicate the analysis described in our paper is in "integration_nlp_paper". The sentiment model code is in "sentiment2d" and an example that demonstrates the use of this model is in a notebook in "examples". Below is a plot of the 2D sentiment scores for the utterances in the Carl Rogers session with Gloria (see [the notebook](./examples/compute_sentiment.ipynb) for details).
 ![sentiment plot](./examples/sentiment.png)
 
 ## Notes
