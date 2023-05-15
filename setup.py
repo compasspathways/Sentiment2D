@@ -9,12 +9,11 @@ setup(
         "pandas",
         "scipy",
         "statsmodels",
-        "sklearn",
+        "scikit-learn",
         "patsy",
         "torch",
         "transformers",
         "plotly",
         "kaleido",
-        "jupyterlab",
     ],
 )
