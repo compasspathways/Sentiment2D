@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Dougherty
+    given-names: Robert
+    orcid: https://orcid.org/0000-0002-1254-5943
+  - family-names: Clarke
+    given-names: Patrick
+title: "COMPASS Pathways 2d Sentiment Model"
+version: 1.0.0
+doi: 10.31234/osf.io/kh3cx
+date-released: 2022-09-30
