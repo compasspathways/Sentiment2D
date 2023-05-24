@@ -22,7 +22,7 @@ Also due to privacy considerations, the raw data necessary to compute some of th
 ## Installation
 
 ```bash
-python -m pip install -e git+https://github.com/compasspathways/Sentiment2D
+python -m pip install git+https://github.com/compasspathways/Sentiment2D
 ```
 
 ## Citation
